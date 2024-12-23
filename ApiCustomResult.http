@@ -1,0 +1,6 @@
+@ApiCustomResult_HostAddress = http://localhost:5146
+
+GET {{ApiCustomResult_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
